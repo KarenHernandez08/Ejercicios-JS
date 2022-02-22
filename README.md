@@ -22,6 +22,7 @@ const ejercicio1 = [
 
 ```
 En la terminal el resultado sera el siguiente :
+
 ![alt text](https://github.com/KarenHernandez08/Ejercicios-JS/blob/main/imagenes/ejercicio1.PNG)
 
 2. Ramón quiere hacer una fiesta privada en donde solo entre un número exclusivo de personas, ayudale al portero a solo dejar pasar a aquellas personas mayores de edad que sean familiares de Ramón. (con imprimir los usuarios que se admitirán basta, usar el arreglo denominado como "ejercicio2").
@@ -70,6 +71,7 @@ const ejercicio2 = [
 
 ```
 Los unicos invitados de ramon serian:
+
 ![alt text](https://github.com/KarenHernandez08/Ejercicios-JS/blob/main/imagenes/ejercicio2.PNG)
 
 
